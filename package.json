@@ -12,8 +12,8 @@
     "seed": "node prisma/seed.js"
   },
   "author": {
-    "name": "Rafael Matos",
-    "email": "rafael.matosr@gmail.com"
+    "name": "Ruan Freire",
+    "email": "ruanfreire@protonmail.com"
   },
   "license": "ISC",
   "dependencies": {
